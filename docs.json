@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Jetpack Basics",
         "groups": [
           {
             "group": "Get Started",
@@ -35,7 +35,26 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Fulfillment",
+        "groups": [
+          {
+            "group": "API Documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint Examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
+      },{
+        "tab": "Last Mile",
         "groups": [
           {
             "group": "API Documentation",
