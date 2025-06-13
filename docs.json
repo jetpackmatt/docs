@@ -95,7 +95,7 @@
     }
   },
   "logo": {
-    "light": "/jetpack-logo-color-lightbg.svg",
+    "light": "/jp-guide-logo-light.svg",
     "dark": "/jetpack-logo-color-darkbg.svg"
   },
   "navbar": {
