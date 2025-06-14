@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Fulfillment Services",
+        "tab": "Fulfillment",
         "groups": [
           {
             "group": "Get Started",
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "tab": "Last Mile Services",
+        "tab": "Last Mile",
         "groups": [
           {
             "group": "API Documentation",
@@ -52,7 +52,7 @@
   },
   "logo": {
     "light": "/jp-guide-logo-light.svg",
-    "dark":  "/jetpack-logo-color-darkbg.svg"
+    "dark":  "/jp-guide-logo-dark.svg"
   },
   "navbar": {
     "links": [
