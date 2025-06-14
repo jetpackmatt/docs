@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Jetpack Basics",
+        "tab": "Fulfillment Services",
         "groups": [
           {
             "group": "Get Started",
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "tab": "Fulfillment",
+        "tab": "Last Mile Services",
         "groups": [
           {
             "group": "API Documentation",
@@ -48,24 +48,6 @@
           }
         ]
       },
-      {
-        "tab": "Last Mile",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [ "api-reference/introduction" ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
     ]
   },
   "logo": {
