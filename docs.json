@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "palm",
-  "name": "Jetpack Help",
+  "name": "Jetpack Guide",
   "colors": {
     "primary": "#FFFFFF",
     "light": "#FFFFFF",
@@ -73,8 +73,9 @@
           }
         ]
       }
-    ],
-    
+    ]
+  },
+  
   "logo": {
     "light": "/jp-guide-logo-light.svg",
     "dark": "/jetpack-logo-color-darkbg.svg"
@@ -99,4 +100,4 @@
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   }
-}}
+}
