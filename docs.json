@@ -74,26 +74,7 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
-  },
+    
   "logo": {
     "light": "/jp-guide-logo-light.svg",
     "dark": "/jetpack-logo-color-darkbg.svg"
@@ -118,4 +99,4 @@
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   }
-}
+}}
