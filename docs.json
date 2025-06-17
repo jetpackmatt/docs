@@ -15,17 +15,24 @@
         "groups": [
           {
             "group": "Fulfillment Guide",
-            "pages": [ "index", "quickstart", "development" ]
+            "pages": [
+              "fulfillment/index",
+              "fulfillment/onboarding",
+              "fulfillment/jetpack-care",
+              "fulfillment/warehouse-network",
+              "fulfillment/dashboard",
+              "fulfillment/transitioning",
+              "fulfillment/3PL-first-time"
+            ]
           },
           {
-            "group": "Essentials",
+            "group": "Setup Guides",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "setup-guides/index",
+              "setup-guides/sending-inventory",
+              "setup-guides/integrating-marketplaces",
+              "setup-guides/other-integrations",
+              "setup-guides/importing-orders"
             ]
           }
         ]
